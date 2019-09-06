@@ -4,7 +4,7 @@ This repository contains experiments and code accompanying the paper:
 
 "Effects of sampling skewness of the importance-weighted risk estimator on model selection."
 
-to be published in the proceedings of the International Conference in Pattern Recognition, 2018.
+which is published in the proceedings of the International Conference in Pattern Recognition, 2018 ([pdf](https://ieeexplore.ieee.org/document/8546186)/[preprint](https://arxiv.org/abs/1804.07344)).
 
 ## Usage
 
